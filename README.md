@@ -1,14 +1,24 @@
-# TP 12 : Service SOAP avec Apache CXF
+# Service SOAP avec Apache CXF
+
+##  Présentation
+Ce projet illustre la création d’un service SOAP en Java en mode **code-first** avec Apache CXF :
+
+- Exposition d’un service JAX-WS sans conteneur
+- Génération automatique du WSDL
+- Sérialisation XML avec JAXB
+- Génération d’un client SOAP
+- Test via SoapUI
+- Ajout d’une sécurité WS-Security (UsernameToken)
 
 - Screen 1:
-<img width="959" height="499" alt="screen01" src="https://github.com/user-attachments/assets/e5c38394-4c60-4b0c-9f0a-2fa2f5ca43f0" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/1d41ad5e-a55b-40cb-83dc-a978e58be844" />
 
 - Screen 2:
 
-<img width="1895" height="1001" alt="image" src="https://github.com/user-attachments/assets/2d5a01df-404e-4ea5-aea5-0ec97139e35d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a87d2563-09a8-4a64-84f1-f4fb8637e415" />
 
 - Screen 3:
-<img width="957" height="500" alt="screen02" src="https://github.com/user-attachments/assets/95e6580b-c4da-46fb-97fe-56a4e7bd7ab2" />
+<img width="1875" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b977f39-436b-4325-9f30-23e7268a8063" />
 
 - Screen 4:
 
